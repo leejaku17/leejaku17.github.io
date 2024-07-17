@@ -1,0 +1,15 @@
+<svg width="311" height="104" viewBox="0 0 311 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="311" height="104" fill="white"/>
+    <line x1="63.5" y1="22" x2="63.5" y2="73" stroke="black"/>
+    <line x1="255.5" y1="22" x2="255.5" y2="73" stroke="black"/>
+    <line x1="8" y1="55.5" x2="304" y2="55.5" stroke="black"/>
+    <!-- left arrow -->
+    <path d="M62.2929 41.2929C61.9024 41.6834 61.9024 42.3166 62.2929 42.7071L68.6569 49.0711C69.0474 49.4616 69.6805 49.4616 70.0711 49.0711C70.4616 48.6805 70.4616 48.0474 70.0711 47.6569L64.4142 42L70.0711 36.3431C70.4616 35.9526 70.4616 35.3195 70.0711 34.9289C69.6805 34.5384 69.0474 34.5384 68.6569 34.9289L62.2929 41.2929ZM115 41L63 41L63 43L115 43L115 41Z" fill="black"/>
+    <!-- right arrow -->
+    <path d="M255.707 41.2929C256.098 41.6834 256.098 42.3166 255.707 42.7071L249.343 49.0711C248.953 49.4616 248.319 49.4616 247.929 49.0711C247.538 48.6805 247.538 48.0474 247.929 47.6569L253.586 42L247.929 36.3431C247.538 35.9526 247.538 35.3195 247.929 34.9289C248.319 34.5384 248.953 34.5384 249.343 34.9289L255.707 41.2929ZM203 41L255 41L255 43L203 43L203 41Z" fill="black"/>
+    <text x="163" y="45" fill="black" text-anchor="middle" font-family="맑은 고딕" font-size="14">90일</text>
+    <text x="63.5" y="18" fill="black" text-anchor="middle" font-family="맑은 고딕" font-size="14">계약일</text>
+    <text x="255.5" y="18" fill="black" text-anchor="middle" font-family="맑은 고딕" font-size="14">암보장개시일</text>
+    <text x="63.5" y="89" fill="black" text-anchor="middle" font-family="맑은 고딕" font-size="13">2023년 4월 10일</text>
+    <text x="255.51" y="89" fill="black" text-anchor="middle" font-family="맑은 고딕" font-size="13">2023년 7월 9일</text>
+</svg>
