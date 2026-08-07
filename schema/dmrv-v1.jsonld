@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "id": "@id",
+    "type": "@type",
+    "dmrv": "https://schema.dmrv.io/ns#",
+    "mainTopicId": {
+      "@id": "dmrv:mainTopicId",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "location": {
+      "@id": "dmrv:location",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "region": {
+      "@id": "dmrv:region",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "observationPeriod": {
+      "@id": "dmrv:observationPeriod"
+    },
+    "measurements": {
+      "@id": "dmrv:measurements",
+      "@container": "@set"
+    },
+    "energySource": {
+      "@id": "dmrv:energySource",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "mwhValue": {
+      "@id": "dmrv:mwhValue",
+      "@type": "http://www.w3.org/2001/XMLSchema#decimal"
+    },
+    "merkleRoot": {
+      "@id": "dmrv:merkleRoot",
+      "@type": "http://www.w3.org/2001/XMLSchema#string"
+    }
+  }
+}
